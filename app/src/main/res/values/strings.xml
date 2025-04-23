@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Composestart</string>
+    <string name="error_password_required">Password must match Confirm Password"></string>
+</resources>
