@@ -1,0 +1,44 @@
+# Built files
+/build
+/.gradle
+/.idea
+/local.properties
+*.iml
+
+# Kotlin build
+*.class
+*.jar
+*.war
+*.ear
+
+# Android
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+
+# Hilt + KAPT generated
+build/generated/
+build/tmp/
+**/build/
+
+# Serialization cache
+*.kotlin_module
+
+# Jetpack Compose previews
+.idea/assetWizardSettings.xml
+.idea/caches/build_file_checksums.ser
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+*.swp
+.gradle/
